@@ -1,4 +1,4 @@
-This is the script used to start the raspcraft.net minecraft server
+This is the script used to start the raspcraft.net minecraft server with 2GB of ram allocated
 
 This script runs on power on with the use of this crobjob
 
